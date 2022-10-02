@@ -82,4 +82,4 @@ To manage Files:
 ***-u** - links local and remote (u-option) 
 
 ## Contributing
-Pull requests are very welcome. I acknowledge the possibility of some uncertainties and mistakes I might have made. Please, feel free to correct me, I will be really grateful! 
+I acknowledge the possibility of some uncertainties and mistakes I might have made. Please, feel free to correct me, I will be really grateful! 
